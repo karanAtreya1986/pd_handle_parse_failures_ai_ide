@@ -1,0 +1,12 @@
+# Playwright & Jira Pipeline
+node_modules/
+test-results/
+stlc_project/reports/
+stlc_project/reports/html-report/
+stlc_project/reports/results.json
+all_jira_tickets.json
+task5.json
+task5_raw.json
+.env
+.DS_Store
+*.log
